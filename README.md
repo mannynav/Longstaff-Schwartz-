@@ -1,1 +1,1 @@
-# Longstaff-Schwarz Monte Carlo
+# Longstaff-Schwartz Monte Carlo
